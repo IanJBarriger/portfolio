@@ -1,5 +1,5 @@
 ## Projects 
-**Personal Spotify Data Analysis** 
+**Personal Spotify Data Analysis and Visualization** 
 - Description 1. 
 - Description 2. 
 - Link
