@@ -1,0 +1,12 @@
+.site-logo img {
+  max-width: 100px; /* Resize logo */
+  margin: 0 auto;   /* Center the logo horizontally */
+  display: block;   /* Ensure it’s block-level */
+  padding-top: 10px; /* Adjust top margin for spacing */
+}
+
+.site-logo img {
+  max-width: 100px; /* Resize logo */
+  margin-left: 0;    /* Align to the left */
+  padding-top: 10px; /* Adjust top margin for spacing */
+}
