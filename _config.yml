@@ -2,3 +2,8 @@ title: Ian Barriger
 logo: /assets/IanPicture.png
 show_downloads: true
 theme: jekyll-theme-minimal
+
+stylesheets:
+  - /assets/css/custom.css
+
+  
