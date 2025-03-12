@@ -21,4 +21,4 @@ This project used a collection of my personal Spotify data dating from February 
 - IBM Data Analyst Certification 
 
 ### Education 
-Data Science, BS, 2023-2027 
+Data Science, BS (2023-2027)
