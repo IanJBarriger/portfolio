@@ -15,9 +15,8 @@
 - Description 2.
 
 ## Achievements 
--National Merit Scholar
-
--IBM Data Analyst Certification 
+- National Merit Scholar
+- IBM Data Analyst Certification 
 
 ### Education 
 Data Science, BS, 2023-2027 
