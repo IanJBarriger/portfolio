@@ -14,8 +14,6 @@
 - Description 1. 
 - Description 2.
 
-[link](https://abc.com/)
-
 ## Achievements 
 -National Merit Scholar
 
