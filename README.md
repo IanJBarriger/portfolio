@@ -1,9 +1,8 @@
 ## Projects 
 **Personal Spotify Data Analysis and Visualization** 
+[Spotify Data Analysis Project](https://github.com/IanJBarriger/SpotifyDataAnalysis)
 - Description 1. 
 - Description 2.
-
-[Spotify Data Analysis Project](https://github.com/IanJBarriger/SpotifyDataAnalysis)
   
 **Data Visualization** 
 - Description 1. 
