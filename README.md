@@ -12,7 +12,7 @@
 
 [MLB Linear Regression Project](https://github.com/IanJBarriger/MLBLinearReggresion)
 
-- This project used MLB statistics from 2000 to 2015 sourced from Baseball Reference.
+- This project used MLB statistics from the 2000 to 2015 seasons sourced from Baseball Reference. The individual season statistics were combined to create a complete data set.
 - The data was applied to form a regression model predicting season win percentage using season-long statistics, such as hits, runs, home runs, ERA, and run differential.
 
 ![MLB Regression Model Image](assets/favicon(1).png)
