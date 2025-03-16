@@ -15,7 +15,7 @@
 - This project used MLB statistics from 2000 to 2015 sourced from Baseball Reference.
 - The data was applied to form a regression model predicting season win percentage using season-long statistics like hits, runs, home runs, ERA, and run differential.
 
-![MLB Regression Model Image](https://builds.mlbstatic.com/mlb.com/builds/site-core/1606751303311/dist/images/favicon.png)
+![MLB Regression Model Image](assets/favicon(1).png)
 
 **ML Project** 
 - Description 1. 
