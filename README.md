@@ -23,7 +23,7 @@
 
 ## Achievements 
 - National Merit Scholar
-- IBM Data Analyst Certification 
+- DataCamp Data Scientist Associate Certification
 
 ## Education 
 - Data Science, BS (2023-2027)
