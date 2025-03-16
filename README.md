@@ -7,10 +7,11 @@ This project used a collection of my personal Spotify data dating from February 
 
 ![Spotify](assets/Spotify.png)
 
-**Data Visualization** 
-- Description 1. 
-- Description 2. 
-- Link
+**MLB Linear Regression Modeling** 
+
+This project used MLB statistics from 2000 to 2015 sourced from Baseball-Reference. The data was applied to form a regression model predicting season win percentage using season-long statistics like hits, runs, home runs, ERA, and run differential.
+
+[MLB Linear Regression Project]
   
 **ML Project** 
 - Description 1. 
