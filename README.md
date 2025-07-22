@@ -8,7 +8,7 @@
 
 ![Spotify Image](assets/Spotify.png)
 
-**MLB Linear Regression Modeling** 
+**MLB Linear Regression Modeling in R** 
 
 [MLB Linear Regression Project](https://github.com/IanJBarriger/MLBLinearReggresion)
 
@@ -17,13 +17,13 @@
 
 ![MLB Regression Model Image](assets/favicon(1).png)
 
-**ML Project** 
+**Bozeman Housing Prediction Project in Python** 
 - Description 1. 
 - Description 2.
 
 ## Achievements 
 - National Merit Scholar
-- DataCamp Data Scientist Associate Certification
+- DataCamp Data Analyst Associate Certification
 
 ## Education 
 - Data Science, BS (2023-2027)
