@@ -1,4 +1,10 @@
 ## Projects 
+**Bozeman Housing Price Prediction Project in Python** 
+
+[Housing Price Predictor Project](https://github.com/IanJBarriger/Bozeman-Housing-Prediciton-Project)
+- Description 1. 
+- Description 2.
+  
 **Personal Spotify Data Analysis and Visualization** 
 
 [Spotify Data Analysis Project](https://github.com/IanJBarriger/SpotifyDataAnalysis)
@@ -16,12 +22,6 @@
 - The data was applied to form a regression model predicting season win percentage using season-long statistics, such as hits, runs, home runs, ERA, and run differential.
 
 ![MLB Regression Model Image](assets/favicon(1).png)
-
-**Bozeman Housing Price Prediction Project in Python** 
-
-[Housing Price Predictor Project](https://github.com/IanJBarriger/Bozeman-Housing-Prediciton-Project)
-- Description 1. 
-- Description 2.
 
 ## Achievements 
 - National Merit Scholar
