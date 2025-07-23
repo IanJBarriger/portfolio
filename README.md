@@ -4,6 +4,8 @@
 [Housing Price Predictor Project](https://github.com/IanJBarriger/Bozeman-Housing-Prediciton-Project)
 - Description 1. 
 - Description 2.
+
+![Housing Image](assets/
   
 **Personal Spotify Data Analysis and Visualization** 
 
