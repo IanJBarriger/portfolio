@@ -2,8 +2,9 @@
 **Bozeman Housing Price Prediction Project in Python** 
 
 [Housing Price Predictor Project](https://github.com/IanJBarriger/Bozeman-Housing-Prediciton-Project)
-- Description 1. 
-- Description 2.
+- Cleaned and engineered features from messy real estate listings, including categorical encoding and location-based features. 
+- Built and tuned machine learning models (Random Forest, XGBoost) to predict housing prices with an R² exceeding 0.81.
+- Identified key pricing drivers such as living area, home type, number of bedrooms/bathrooms, and geographic coordinates
 
 ![Housing Image](assets/house.png)
   
