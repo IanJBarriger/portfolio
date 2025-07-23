@@ -17,7 +17,9 @@
 
 ![MLB Regression Model Image](assets/favicon(1).png)
 
-**Bozeman Housing Prediction Project in Python** 
+**Bozeman Housing Price Prediction Project in Python** 
+
+[Housing Price Predictor Project](https://github.com/IanJBarriger/Bozeman-Housing-Prediciton-Project)
 - Description 1. 
 - Description 2.
 
