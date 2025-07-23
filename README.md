@@ -5,7 +5,7 @@
 - Description 1. 
 - Description 2.
 
-![Housing Image](assets/
+![Housing Image](assets/house.png)
   
 **Personal Spotify Data Analysis and Visualization** 
 
